@@ -1,6 +1,6 @@
 This is the code accompanied with the paper:
 
-**H.Sha, M.AlHasan, G.Mohler. Group Link Prediction Using Conditional Variational Autoencoder. Accepted at the International AAAI Conference on Web and Social Media (ICWSM 2021).**
+**H. Sha, M. Al Hasan, G. Mohler. Group Link Prediction Using Conditional Variational Autoencoder. Accepted at the International AAAI Conference on Web and Social Media (ICWSM 2021).**
 
 
 
@@ -8,7 +8,7 @@ This is the code accompanied with the paper:
 
 1. move the datasets folder to this folder
 
-2. create a python2 virtual environment and install the libraries listed in requirements.txt (e.g. pip install -r requirements.txt)
+2. python-2.7 and Tensorflow < 2.0, see requirements.txt (e.g. pip install -r requirements.txt)
 
 Note: This code is tested in python 2.7 on a linux machine.
 
