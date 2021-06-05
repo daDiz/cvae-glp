@@ -1,7 +1,7 @@
 This is the code accompanied with the paper:
 
-**Sha, H., Al Hasan, M., & Mohler, G. (2021). Group Link Prediction Using Conditional Variational Autoencoder. Proceedings of the International AAAI Conference on Web and Social Media, 15(1), 656-667. Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/18092
-**
+Sha, H., Al Hasan, M., & Mohler, G. (2021). Group Link Prediction Using Conditional Variational Autoencoder. Proceedings of the International AAAI Conference on Web and Social Media, 15(1), 656-667. Retrieved from https://ojs.aaai.org/index.php/ICWSM/article/view/18092
+
 
 Please cite the paper if you use the code. 
 
